@@ -22,3 +22,6 @@ This Custom Progress Dialog is inspired from Swipe Refresh Layout's Prgressbar
 	}
   
   ```
+
+
+![small-promo](https://user-images.githubusercontent.com/4299123/27515827-87678894-59ca-11e7-9ea6-3969d1470a33.gif)
